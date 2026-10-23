@@ -2,7 +2,7 @@
 
 _Last updated: October 23, 2026_
 
-Plane Radio helps pilots find AM broadcast stations to tune on an aircraft's ADF. This policy explains what the app does with information. In short: **Plane Radio does not collect, store, sell, or share your personal information.**
+Plane Radio helps pilots find AM broadcast stations to tune on an aircraft's ADF. This policy explains what the app does with information. In short: **Plane Radio does not collect or store any information about you, and never sells or shares anything.**
 
 ## Location
 
@@ -23,9 +23,11 @@ Like any internet request, these servers can see your device's IP address as par
 
 Podcast episodes you download, and a few settings (such as your US / Canada choice), are saved only on your device. Deleting the app deletes them.
 
-## Purchases
+## Purchases and subscribers
 
-Subscriptions are handled entirely by Apple. We never see your payment details; Apple tells the app only whether your subscription is active. See Apple's privacy policy for how Apple handles purchases.
+Subscriptions are handled entirely by Apple. We never see your name, email address, or payment details, and we keep no list of subscribers. Apple tells the app on your device only whether your subscription is active.
+
+Apple gives app makers summary reports, such as how many people subscribed in each country. Any information we receive from Apple is used only to run the app, and **will never be shared or sold, for any reason.** See Apple's privacy policy for how Apple handles purchases.
 
 ## No accounts, tracking, or ads
 
