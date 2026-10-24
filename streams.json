@@ -1,5 +1,299 @@
 {
  "stations": {
+  "CBR": {
+   "format": "News/Talk",
+   "stream": "https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8"
+  },
+  "CFAC": {
+   "format": "Sports",
+   "stream": "https://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8"
+  },
+  "CFAJ": {
+   "stream": "https://s19.myradiostream.com/19156/listen.mp3"
+  },
+  "CFAM": {
+   "stream": "https://goldenwest.leanstream.co/goldenwest/CFAMAM.stream/playlist.m3u8"
+  },
+  "CFAR": {
+   "format": "Pop",
+   "stream": "https://us2.maindigitalstream.com/ssl/CFAR"
+  },
+  "CFAX": {
+   "format": "News/Talk",
+   "stream": "http://17633.live.streamtheworld.com:3690/CFAXAMAAC_SC"
+  },
+  "CFBC": {
+   "format": "Country",
+   "stream": "https://mbsradio-ais.leanstream.co/CFBCAM-MP3"
+  },
+  "CFBV": {
+   "stream": "https://vistaradio.streamb.live/SB00077"
+  },
+  "CFCB": {
+   "format": "News/Talk",
+   "stream": "https://newcap.leanstream.co/CFCBAM"
+  },
+  "CFFR": {
+   "format": "News/Talk",
+   "stream": "https://rogers-hls.leanstream.co/rogers/cal660.stream/playlist.m3u8"
+  },
+  "CFGO": {
+   "format": "Sports",
+   "stream": "http://14133.live.streamtheworld.com:3690/CFGOAMAAC_SC"
+  },
+  "CFIQ": {
+   "format": "News/Talk",
+   "stream": "https://corus.leanstream.co/CFIQAM-MP3"
+  },
+  "CFNI": {
+   "format": "Oldies",
+   "stream": "https://vistaradio.streamb.live/SB00083"
+  },
+  "CFNV": {
+   "format": "Oldies",
+   "stream": "https://centova.radioservers.biz/proxy/cnv3/stream"
+  },
+  "CFPL": {
+   "format": "News/Talk",
+   "stream": "https://live.leanstream.co/CFPLAM-MP3"
+  },
+  "CFQR": {
+   "format": "News/Talk"
+  },
+  "CFRA": {
+   "format": "News/Talk",
+   "stream": "http://18063.live.streamtheworld.com:3690/CFRAAMAAC_SC"
+  },
+  "CFRB": {
+   "format": "News/Talk",
+   "stream": "http://26313.live.streamtheworld.com:3690/CFRBAMAAC_SC"
+  },
+  "CFRY": {
+   "format": "Country",
+   "stream": "https://goldenwest.leanstream.co/CFRYAM"
+  },
+  "CFSL": {
+   "format": "Country",
+   "stream": "https://goldenwest.leanstream.co/CFSLAM"
+  },
+  "CFZM": {
+   "format": "News/Talk"
+  },
+  "CHAB": {
+   "format": "Oldies",
+   "stream": "https://goldenwest.leanstream.co/CHABAM"
+  },
+  "CHAH": {
+   "stream": "https://ais-sa1.streamon.fm/7681_64k.mp3"
+  },
+  "CHED": {
+   "format": "News/Talk",
+   "stream": "https://corus.leanstream.co/CHEDAM-MP3"
+  },
+  "CHHA": {
+   "format": "Public Radio",
+   "stream": "http://72.139.27.130:100/broadwave.mp3?src=1&rate=1"
+  },
+  "CHKT": {
+   "stream": "https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8"
+  },
+  "CHMB": {
+   "stream": "https://stream.radiojar.com/60sqadqu97zuv.mp3"
+  },
+  "CHNL": {
+   "format": "News/Talk",
+   "stream": "https://newcap.leanstream.co/CHNLAM"
+  },
+  "CHOK": {
+   "format": "News/Talk",
+   "stream": "https://live.leanstream.co/CHOKAM-MP3"
+  },
+  "CHQR": {
+   "format": "News/Talk",
+   "stream": "https://live.leanstream.co/CHQRAM-MP3"
+  },
+  "CHRN": {
+   "stream": "https://ice2.securenetsystems.net/HUMSAFAR"
+  },
+  "CHTM": {
+   "format": "Pop",
+   "stream": "https://us2.maindigitalstream.com/ssl/CHTM"
+  },
+  "CHUM": {
+   "format": "Sports",
+   "stream": "http://18183.live.streamtheworld.com:3690/CHUMAMAAC_SC"
+  },
+  "CINA": {
+   "format": "Public Radio",
+   "stream": "https://ice8.securenetsystems.net/CINA"
+  },
+  "CIRF": {
+   "stream": "https://ice66.securenetsystems.net/CIRF"
+  },
+  "CISL": {
+   "format": "Sports",
+   "stream": "https://radioamd-i.akamaihd.net/hls/live/562166/cisl/master.m3u8"
+  },
+  "CIWW": {
+   "format": "News/Talk",
+   "stream": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/playlist.m3u8"
+  },
+  "CJAR": {
+   "format": "Pop",
+   "stream": "https://us2.maindigitalstream.com/ssl/CJAR"
+  },
+  "CJBQ": {
+   "format": "News/Talk",
+   "stream": "https://live.leanstream.co/CJBQAM-MP3"
+  },
+  "CJCA": {
+   "format": "News/Talk",
+   "stream": "https://shinefm.streamguys1.com/cjca"
+  },
+  "CJCB": {
+   "format": "Country",
+   "stream": "https://mbsradio.leanstream.co/CJCBAM-MP3"
+  },
+  "CJCL": {
+   "format": "Sports",
+   "stream": "https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8"
+  },
+  "CJCW": {
+   "format": "Pop",
+   "stream": "https://mbsradio.leanstream.co/CJCWAM-MP3"
+  },
+  "CJGX": {
+   "format": "Country",
+   "stream": "https://cjgx.streamon.fm/stream/CJGX-64k.aac"
+  },
+  "CJLI": {
+   "format": "Religious",
+   "stream": "https://shinefm.streamguys1.com/cjli"
+  },
+  "CJLO": {
+   "format": "Public Radio",
+   "stream": "http://rosetta.shoutca.st:8883/stream"
+  },
+  "CJLV": {
+   "format": "Oldies",
+   "stream": "http://centova.radioservers.biz:8264/stream"
+  },
+  "CJME": {
+   "format": "News/Talk",
+   "stream": "https://rawlco.leanstream.co/CJMEAM-MP3"
+  },
+  "CJMR": {
+   "stream": "https://14123.live.streamtheworld.com/CJMRAMAAC_SC"
+  },
+  "CJNB": {
+   "format": "Country",
+   "stream": "https://redirect.jpbgdigital.com/CJNB.m3u8"
+  },
+  "CJOB": {
+   "format": "News/Talk",
+   "stream": "https://live.leanstream.co/CJOBAM-MP3"
+  },
+  "CJOY": {
+   "format": "Oldies",
+   "stream": "https://live.leanstream.co/CJOYAM"
+  },
+  "CJRB": {
+   "format": "Oldies",
+   "stream": "https://goldenwest.leanstream.co/CJRBAM"
+  },
+  "CJSL": {
+   "format": "Country",
+   "stream": "https://goldenwest.leanstream.co/CJSLAM"
+  },
+  "CJSN": {
+   "format": "Country",
+   "stream": "https://vin-live2-ais-relay1.leanstream.co/goldenwest/CJSNAM.stream/playlist.m3u8"
+  },
+  "CJTM": {
+   "format": "Public Radio",
+   "stream": "https://ryerson.out.airtime.pro/ryerson_a"
+  },
+  "CJWW": {
+   "format": "Country",
+   "stream": "http://27033.live.streamtheworld.com:3690/CJWWAMAAC_SC"
+  },
+  "CJYQ": {
+   "format": "Country",
+   "stream": "https://newcap.leanstream.co/CJYQAM"
+  },
+  "CKAC": {
+   "stream": "https://26353.live.streamtheworld.com/CKACAMAAC_SC"
+  },
+  "CKAT": {
+   "format": "Country",
+   "stream": "https://rogers-hls.leanstream.co/rogers/nor600.stream/playlist.m3u8"
+  },
+  "CKBI": {
+   "format": "Country",
+   "stream": "https://stream.jpbgdigital.com/CKBI/HEAAC/48k/playlist.m3u8"
+  },
+  "CKDO": {
+   "format": "Oldies",
+   "stream": "https://17813.live.streamtheworld.com/CKDOFMAAC_SC"
+  },
+  "CKGL": {
+   "format": "News/Talk",
+   "stream": "https://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8"
+  },
+  "CKGM": {
+   "format": "Sports",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CKGMAMAAC.aac"
+  },
+  "CKJH": {
+   "stream": "https://stream.jpbgdigital.com/CKJH/HEAAC/48k/playlist.m3u8"
+  },
+  "CKJR": {
+   "format": "Sports",
+   "stream": "https://newcap.leanstream.co/CKJRAM-MP3"
+  },
+  "CKLW": {
+   "format": "News/Talk",
+   "stream": "https://18073.live.streamtheworld.com/CKLWAMAAC_SC"
+  },
+  "CKNW": {
+   "format": "News/Talk",
+   "stream": "https://live.leanstream.co/CKNWAM"
+  },
+  "CKNX": {
+   "format": "Country",
+   "stream": "https://live.leanstream.co/CKNXAM"
+  },
+  "CKOF-FM": {
+   "format": "News/Talk",
+   "stream": "https://18123.live.streamtheworld.com/CKOFFMAAC_SC"
+  },
+  "CKOM": {
+   "format": "News/Talk",
+   "stream": "https://rawlco.leanstream.co/CKOMAM"
+  },
+  "CKRM": {
+   "format": "Country",
+   "stream": "https://ais-sa1.streamon.fm/7267_64k.aac"
+  },
+  "CKSP": {
+   "stream": "https://ais-sa1.streamon.fm/7676_48k.aac"
+  },
+  "CKSW": {
+   "format": "Country",
+   "stream": "https://lax-live1-ais-relay1.leanstream.co/goldenwest/CKSWAM.stream/playlist.m3u8"
+  },
+  "CKTB": {
+   "format": "News/Talk",
+   "stream": "http://29318.live.streamtheworld.com:3690/CKTBAMAAC_SC"
+  },
+  "CKWW": {
+   "format": "Oldies",
+   "stream": "https://ice25.securenetsystems.net/CKWW"
+  },
+  "CKWX": {
+   "format": "News/Talk",
+   "stream": "https://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8"
+  },
   "KAAY": {
    "format": "Religious",
    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAAYAMAAC.aac"
@@ -981,6 +1275,10 @@
   },
   "KZPS": {
    "stream": "https://stream.revma.ihrhls.com/zc3379"
+  },
+  "VOWR": {
+   "format": "Religious",
+   "stream": "https://c21.radioboss.fm/stream/193"
   },
   "WAAV": {
    "format": "News/Talk"
@@ -2278,5 +2576,5 @@
    "stream": "http://stream.wzxiradio.com:8000/wzxi-ch1.mp3"
   }
  },
- "updated": "2026-10-22T20:25:13+00:00"
+ "updated": "2026-10-24T13:54:46+00:00"
 }
