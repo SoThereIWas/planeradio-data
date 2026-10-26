@@ -100,6 +100,10 @@
   "CHMB": {
    "stream": "https://stream.radiojar.com/60sqadqu97zuv.mp3"
   },
+  "CHMP-FM": {
+   "format": "News/Talk",
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHMPFMAAC.aac"
+  },
   "CHNL": {
    "format": "News/Talk",
    "stream": "https://newcap.leanstream.co/CHNLAM"
@@ -250,6 +254,9 @@
   "CKJR": {
    "format": "Sports",
    "stream": "https://newcap.leanstream.co/CKJRAM-MP3"
+  },
+  "CKKS-FM": {
+   "stream": "https://rogers-hls.leanstream.co/rogers/van1049.stream/48k/playlist.m3u8"
   },
   "CKLW": {
    "format": "News/Talk",
@@ -711,6 +718,9 @@
    "format": "Sports",
    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKSEAMAAC.aac"
   },
+  "KKSE-FM": {
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKSEFMAAC.aac"
+  },
   "KKXA": {
    "format": "Country",
    "stream": "http://www.ophanim.net:9410/stream"
@@ -1075,6 +1085,9 @@
   "KTBZ": {
    "stream": "https://stream.revma.ihrhls.com/zc1941/hls.m3u8"
   },
+  "KTCK": {
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCKAMAAC.aac"
+  },
   "KTCT": {
    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTCTAMAAC.aac"
   },
@@ -1350,6 +1363,9 @@
    "format": "Rock",
    "stream": "https://stream.revma.ihrhls.com/zc1465/hls.m3u8"
   },
+  "WAXY": {
+   "stream": "https://live.amperwave.net/direct/audacy-waxyamaac-imc"
+  },
   "WAZY-FM": {
    "stream": "https://cp9.serverse.com/proxy/neiqvqnd?mp=/stream"
   },
@@ -1417,6 +1433,9 @@
   "WBOK": {
    "format": "News/Talk",
    "stream": "https://ice42.securenetsystems.net/WBOK"
+  },
+  "WBOS": {
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WBOSFMAAC.aac"
   },
   "WBPT": {
    "format": "Rock",
@@ -1710,6 +1729,9 @@
    "format": "News/Talk",
    "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WGOWAMAAC.aac"
   },
+  "WGR": {
+   "stream": "https://live.amperwave.net/direct/audacy-wgramaac-imc"
+  },
   "WGRF": {
    "format": "Rock",
    "stream": "http://26733.live.streamtheworld.com:3690/WGRFFM_SC"
@@ -1781,6 +1803,9 @@
   "WHP": {
    "format": "News/Talk",
    "stream": "https://stream.revma.ihrhls.com/zc4027"
+  },
+  "WHPT": {
+   "stream": "https://ad-oom-cmg.streamguys1.com/tam1025/tam1025-sgplayer-aac"
   },
   "WHSQ": {
    "stream": "https://live.amperwave.net/direct/audacy-metsradioaac-imc"
@@ -2087,6 +2112,9 @@
   "WMMQ": {
    "stream": "https://prod-52-55-242-202.amperwave.net/townsquare-wmmqfmaac-hlsc3.m3u8"
   },
+  "WMMR": {
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMMRFMAAC.aac"
+  },
   "WMMS": {
    "format": "Rock",
    "stream": "https://stream.revma.ihrhls.com/zc1741"
@@ -2116,6 +2144,9 @@
   "WMVP": {
    "format": "Sports",
    "stream": "https://live.amperwave.net/direct/goodkarma-wmvpammp3-ibc1"
+  },
+  "WMYM": {
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMYMAMAAC.aac"
   },
   "WNAM": {
    "format": "Oldies",
@@ -2242,6 +2273,9 @@
    "format": "Religious",
    "stream": "https://live.amperwave.net/manifest/blueridgeradio-wpaqamaac-hlsc4.m3u8"
   },
+  "WPEN": {
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WPENFMAAC.aac"
+  },
   "WPEO": {
    "format": "Religious",
    "stream": "https://ice64.securenetsystems.net/WPEO"
@@ -2303,6 +2337,10 @@
   "WRAY": {
    "format": "Country",
    "stream": "https://solid41.streamupsolutions.com/proxy/dyqywsse?mp=/;type=mp3"
+  },
+  "WRCN-FM": {
+   "format": "News/Talk",
+   "stream": "http://27063.live.streamtheworld.com:3690/WRCNFM_SC"
   },
   "WREC": {
    "format": "News/Talk",
@@ -2577,6 +2615,9 @@
   "WWVA": {
    "stream": "https://stream.revma.ihrhls.com/zc4848/hls.m3u8"
   },
+  "WXDX-FM": {
+   "stream": "https://stream.revma.ihrhls.com/zc2033"
+  },
   "WXLM": {
    "format": "News/Talk",
    "stream": "http://15723.live.streamtheworld.com:3690/WXLMAMAAC_SC"
@@ -2584,6 +2625,9 @@
   "WXLW": {
    "format": "News/Talk",
    "stream": "https://ice24.securenetsystems.net/WFDM"
+  },
+  "WXOS": {
+   "stream": "https://playerservices.streamtheworld.com/api/livestream-redirect/WXOSFMAAC.aac"
   },
   "WXQW": {
    "format": "Sports",
@@ -2631,5 +2675,5 @@
    "stream": "http://stream.wzxiradio.com:8000/wzxi-ch1.mp3"
   }
  },
- "updated": "2026-10-26T19:06:02+00:00"
+ "updated": "2026-10-26T20:12:19+00:00"
 }
