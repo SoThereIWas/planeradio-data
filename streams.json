@@ -1422,6 +1422,9 @@
    "format": "News/Talk",
    "stream": "https://ice3.securenetsystems.net/WBLQ"
   },
+  "WBNS": {
+   "stream": "https://radiohio.streamguys1.com/cols/wbnsam-iheart.m4a"
+  },
   "WBNS-FM": {
    "format": "Sports",
    "stream": "https://oom-radiohio.streamguys1.com/cols/wbnsfm.mp3"
@@ -2556,6 +2559,9 @@
    "format": "News/Talk",
    "stream": "https://stream.compsolutions1.net/proxy/wvbgam/stream"
   },
+  "WVEI": {
+   "stream": "https://live.amperwave.net/direct/audacy-wveiamaac-imc"
+  },
   "WVMT": {
    "format": "News/Talk",
    "stream": "https://live.amperwave.net/manifest/vox-wvmtamaac-hlsc.m3u8"
@@ -2585,6 +2591,9 @@
   "WWIC": {
    "format": "Country",
    "stream": "https://ice7.securenetsystems.net/WWIC"
+  },
+  "WWJ": {
+   "stream": "https://live.amperwave.net/direct/audacy-wwjamaac-imc"
   },
   "WWJB": {
    "format": "News/Talk",
@@ -2675,5 +2684,5 @@
    "stream": "http://stream.wzxiradio.com:8000/wzxi-ch1.mp3"
   }
  },
- "updated": "2026-10-26T20:12:19+00:00"
+ "updated": "2026-10-26T20:21:54+00:00"
 }
