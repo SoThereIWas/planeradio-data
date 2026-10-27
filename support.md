@@ -13,11 +13,12 @@ Questions or problems? Email **[planeradio@sothereiwas.us](mailto:planeradio@sot
 
 Canceling is easy, and you won't be charged if you cancel at least one day before your trial ends.
 
+**Canceling doesn't cut you off.** If you cancel during your free trial, you keep every Premium feature for the rest of the trial; it simply won't turn into a paid subscription. If you cancel a paid subscription, Premium keeps working until the end of the year you've paid for. So it's safe to cancel early, right after you start the trial, and still use the whole two weeks.
+
 - **During your free trial:** tap **Cancel Free Trial** on Plane Radio's home screen.
 - **Any time:** in Plane Radio, tap the **ⓘ** button, then **Manage Subscription** (or **Cancel Free Trial**).
 - **Or on your iPhone or iPad:** open **Settings**, tap your name, then **Subscriptions**, then **Plane Radio**.
 
-After you cancel, Premium keeps working until the end of the period you've paid for (or the end of your trial).
 
 ## Refunds
 
