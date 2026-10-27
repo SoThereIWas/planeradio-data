@@ -42,6 +42,8 @@ Premium follows your Apple Account. On a new iPhone or iPad, sign in with the sa
 
 **Does Plane Radio tune my radio?** No. It tells you what to tune; it doesn't control your aircraft's radio and isn't a navigation or ATC tool. Always navigate with approved sources.
 
+**When should I use it?** Only when it's safe and permitted, such as in cruise, and never during critical phases of flight.
+
 ## Privacy
 
 Plane Radio collects no data about you: no accounts, no ads, no tracking. See the [privacy policy](https://github.com/SoThereIWas/planeradio-data/blob/main/privacy.md).
