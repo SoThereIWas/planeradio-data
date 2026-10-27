@@ -7,7 +7,7 @@ Questions or problems? Email **[planeradio@sothereiwas.us](mailto:planeradio@sot
 ## Free and Premium
 
 - **Free:** Blow Torch Stations (every Class A station, with its station page, map and Listen Live link), and the So There I Was podcast.
-- **Plane Radio Premium** ($3.99 a year in the US, with a 14-day free trial for new subscribers): Near Me, Nearest to Airport, and Sports.
+- **Plane Radio Premium**: Near Me, Nearest to Airport, and Sports. Choose **yearly** ($3.99 a year in the US, with a 14-day free trial for new subscribers) or **Lifetime** ($14.99 once: no subscription, nothing to renew or cancel).
 
 ## Canceling your free trial or subscription
 
@@ -19,6 +19,10 @@ Canceling is easy, and you won't be charged if you cancel at least one day befor
 - **Any time:** in Plane Radio, tap the **ⓘ** button, then **Manage Subscription** (or **Cancel Free Trial**).
 - **Or on your iPhone or iPad:** open **Settings**, tap your name, then **Subscriptions**, then **Plane Radio**.
 
+
+## Redeeming a code
+
+Got a Plane Radio code? Open Plane Radio, tap **ⓘ**, then **Redeem a Code** (it's also on the Premium sign-up screen), and enter it. You can also redeem it in the App Store: tap your account picture, then **Redeem Gift Card or Code**.
 
 ## Refunds
 
