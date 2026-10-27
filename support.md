@@ -7,7 +7,7 @@ Questions or problems? Email **[planeradio@sothereiwas.us](mailto:planeradio@sot
 ## Free and Premium
 
 - **Free:** Blow Torch Stations (every Class A station, with its station page, map and Listen Live link), and the So There I Was podcast.
-- **Plane Radio Premium**: Near Me, Nearest to Airport, and Sports. Choose **yearly** ($3.99 a year in the US, with a 14-day free trial for new subscribers) or **Lifetime** ($14.99 once: no subscription, nothing to renew or cancel).
+- **Plane Radio Premium**: Near Me, Nearest to Airport, and Sports. Choose **yearly** ($3.99 a year in the US, with a 14-day free trial for new subscribers) or **Lifetime** ($17.99 once: no subscription, nothing to renew or cancel).
 
 ## Canceling your free trial or subscription
 
