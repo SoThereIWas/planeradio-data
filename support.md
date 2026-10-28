@@ -24,6 +24,10 @@ Canceling is easy, and you won't be charged if you cancel at least one day befor
 
 Got a Plane Radio code? Open Plane Radio, tap **ⓘ**, then **Redeem a Code** (it's also on the Premium sign-up screen), and enter it. You can also redeem it in the App Store: tap your account picture, then **Redeem Gift Card or Code**.
 
+## Switching from yearly to Lifetime
+
+You can buy Lifetime at any time. Apple can't cancel a subscription for you, so Plane Radio asks you to: right after you buy Lifetime, tap **Cancel Yearly Plan** (it also stays on the home screen until you do). If you were still in your free trial, you won't be charged anything more. If you'd already paid for the year, you can ask Apple to refund that charge at **[reportaproblem.apple.com](https://reportaproblem.apple.com)**.
+
 ## Refunds
 
 Apple handles all payments, so refunds are requested from Apple at **[reportaproblem.apple.com](https://reportaproblem.apple.com)**. Plane Radio never sees your payment details.
